@@ -1,0 +1,23 @@
+{
+    "name": "ayberk/cms",
+    "description": "Phpbasics cms project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./App",
+            "Core\\": "./Core"
+        },
+        "files": [
+            "./App/Helpers/app.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Ayberk Özkan",
+            "email": "kenan.ayberk@hotmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6",
+        "ext-json": "*"
+    }
+}
