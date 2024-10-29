@@ -36,13 +36,11 @@ PHPBasics Müşteri Yönetim Sistemi Projesi
 
 ---
 
-![CMS1](/img/CMS1.PNG)
-![CMS2](/img/CMS2.PNG)
 
 ---
 ## Database ve Tablolar
 
-![CMS3](/img/CMS3.png)
+
 
 ![customers](/img/CMScustomers.png)
 
